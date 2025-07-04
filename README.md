@@ -1,2 +1,2 @@
 # boba-maker
-boba making game!!
+run boba.py to begin
